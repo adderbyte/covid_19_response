@@ -9,3 +9,14 @@ Dataset from : [CORD-19-research-challenge](https://www.kaggle.com/allen-institu
 
 ![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/coro2.png)
 
+
+
+----------------------------------
+
+#### Frequemce conclusions in covid research papers
+
+---------------------------------------
+
+
+![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/word.png)
+
