@@ -23,7 +23,7 @@ Dataset from : [CORD-19-research-challenge](https://www.kaggle.com/allen-institu
 
 ----------------------------------
 
-#### Article Visualization: Phrase  Analysics
+#### Article Visualization: Phrase  Analysis
 
 ---------------------------------------
 
