@@ -20,3 +20,17 @@ Dataset from : [CORD-19-research-challenge](https://www.kaggle.com/allen-institu
 
 ![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/word.png)
 
+
+----------------------------------
+
+#### Article Visualization Phrase  Analysis
+
+---------------------------------------
+
+![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/covidplot.png)
+
+
+
+
+
+
