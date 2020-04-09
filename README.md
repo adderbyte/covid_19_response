@@ -13,7 +13,7 @@ Dataset from : [CORD-19-research-challenge](https://www.kaggle.com/allen-institu
 
 ----------------------------------
 
-#### conclusions in covid research papers
+#### frequent conclusion in covid research papers
 
 ---------------------------------------
 
