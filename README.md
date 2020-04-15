@@ -23,11 +23,11 @@ Dataset from : [CORD-19-research-challenge](https://www.kaggle.com/allen-institu
 
 ----------------------------------
 
-#### Article Visualization: Phrase  Analysis
+#### Article Visualization: Phrase  Scatter Plot
 
 ---------------------------------------
 
-![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/covidplot.png)
+![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/scattertext.png)
 
 
 
