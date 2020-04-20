@@ -18,4 +18,4 @@ specific year. Tweets folder are grouped according to year.
 ---------------------------------------
 ##### How to use
 -------------------------------------
-The script for collecting the tweets has been provided.
+The script for collecting the tweets has been provided. Minimumrequirement to run is python 3 and above, standard python data science libraries and [twintproject](https://github.com/twintproject/twint).
