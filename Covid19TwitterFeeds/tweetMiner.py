@@ -31,7 +31,7 @@ def month_split(month):
 
     return month
 
-def tweet_collector(query,s_month,e_month,duration,sleeptime=6000):
+def tweet_collector(query,s_month,e_month,duration,sleeptime=9000):
 
     '''
     e_month : end month for the first month, begining of next month
@@ -103,12 +103,12 @@ if __name__ == '__main__':
       query = 'coronavirus OR virus OR 2019-nCoV OR wuhan OR #WHO OR flu OR pneumonia OR Covid19 OR covid-19 OR vaccination OR Wuhan OR vaccines OR lockdown OR ICU'
       #query = 'coronavirus  OR flu OR 2019-nCoV OR wuhan OR  Covid19 OR covid-19 OR vaccines OR lockdown OR ICU'
 
-      year = '2020'
+      year = '2019'
       ## month interval of interest. This means we want from first month excluding 2nd month
-      s_month = '01'
-      e_month  = '02'
+      s_month = '08'  # ranges from 01 to 12
+      e_month  = '09'  # ranges from 01 to 12
       # duration helps track the total month we want to compile
-      duration = 5
+      duration = 1
       tweet_collector(query,s_month,e_month,duration)
 
 
