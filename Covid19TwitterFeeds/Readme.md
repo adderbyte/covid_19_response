@@ -12,7 +12,7 @@ If in doubt please  carefully read the twitter [developer and agreement policy](
 ##### Methodologies
 -------------------------------------
 Uses [twintproject](https://github.com/twintproject/twint) for collecting covid-19 related tweets for each month for a 
-specific year. Tweets folder are grouped according to year.
+specific year. Tweets folders are grouped according to year.
 
 
 ---------------------------------------
