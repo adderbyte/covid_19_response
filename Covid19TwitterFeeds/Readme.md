@@ -1,1 +1,5 @@
-Covid-19 related news on twitter
+---------------------------------------
+### Covid-19 feeds  on twitter
+-------------------------------------
+
+For academic and Humanitarian use only. Uses (Twintproject)[https://github.com/twintproject/twint]
