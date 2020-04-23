@@ -1,0 +1,18 @@
+Place,Province,Start date,End date,City level,Population,Cases,Deaths,Recoveries,Active
+Wuhan,Hubei,2020-01-23,2020-04-08[275][276][277],Sub-provincial,"11,081,000","50,333","3,869","46,335",129
+Xiaogan,Hubei,2020-01-24,2020-03-25[278],Prefectural,"4,920,000","3,518",129,"3,389",0
+Huanggang,Hubei,2020-01-23,2020-03-25[278],Prefectural,"6,330,000","2,907",125,"2,782",0
+Jingzhou,Hubei,2020-01-24,2020-03-17[279],Prefectural,"5,590,200","1,580",52,"1,528",0
+Ezhou,Hubei,2020-01-23,2020-03-25[278],Prefectural,"1,077,700","1,394",59,"1,335",0
+Suizhou,Hubei,2020-01-24,2020-03-25[278],Prefectural,"2,216,700","1,307",45,"1,262",0
+Xiangyang,Hubei,2020-01-28[280],2020-03-25[278],Prefectural,"5,669,000","1,175",40,"1,135",0
+Huangshi,Hubei,2020-01-24,2020-03-13[281],Prefectural,"2,470,700","1,015",39,976,0
+Yichang,Hubei,2020-01-24,2020-03-25[278],Prefectural,"4,135,850",931,37,894,0
+Jingmen,Hubei,2020-01-24,2020-03-25[278],Prefectural,"2,896,500",928,41,887,0
+Xianning,Hubei,2020-01-24,2020-03-25[278],Prefectural,"2,543,300",836,15,821,0
+Shiyan,Hubei,2020-01-24,2020-03-25[278],Prefectural,"3,406,000",672,8,664,0
+Xiantao,Hubei,2020-01-24,2020-03-25[278],Sub-prefectural,"1,140,500",575,22,553,0
+Tianmen,Hubei,2020-01-24,2020-03-25[278],Sub-prefectural,"1,272,300",496,15,481,0
+Enshi,Hubei,2020-01-24,2020-03-25[278],Prefectural,"3,378,000",252,7,245,0
+Qianjiang,Hubei,2020-01-24,2020-03-13[282],Sub-prefectural,"966,000",198,9,189,0
+Shennongjia,Hubei,2020-01-27,2020-03-25[278],Sub-prefectural,"78,912",11,0,11,0
