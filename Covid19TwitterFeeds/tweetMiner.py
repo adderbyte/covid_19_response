@@ -13,6 +13,9 @@ Big thank you to the author https://github.com/jomorrcode
 
 '''
 
+
+
+
 def month_split(month):
     '''
     provides an increment on month 
@@ -101,6 +104,14 @@ def tweet_collector(query,s_month,e_month,duration,sleeptime=9000):
 
 
 if __name__ == '__main__':
+
+      #################################################################
+      # make folder for saving tweets
+      if not os.path.exists('covid_tweets'):
+            print('Preparing folder for saving model ...')
+            os.makedirs('covid_tweets')
+      #################################################################
+
       query = 'coronavirus OR virus OR 2019-nCoV OR wuhan OR #WHO OR flu OR pneumonia OR Covid19 OR covid-19 OR vaccination OR Wuhan OR vaccines OR lockdown OR ICU'
       #query = 'coronavirus  OR flu OR 2019-nCoV OR wuhan OR  Covid19 OR covid-19 OR vaccines OR lockdown OR ICU'
 
