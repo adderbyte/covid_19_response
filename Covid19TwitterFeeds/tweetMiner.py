@@ -48,8 +48,9 @@ def tweet_collector(query,s_month,e_month,duration,sleeptime=9000):
 
         separator = '-'
         day= '01'
+        dayEnd = '01' # chnage to 31 if looping through same month
         start_str = year + separator+s_month + separator + day
-        end_str =  year + separator+e_month + separator + day
+        end_str =  year + separator+e_month + separator + dayEnd
         print('##################################################')
         print(start_str,end_str)
         print('##################################################')
@@ -105,7 +106,8 @@ if __name__ == '__main__':
 
       year = '2019'
       ## month interval of interest. This means we want from first month excluding 2nd month
-      s_month = '08'  # ranges from 01 to 12
+      ## if s_month and e_month are same then the day and dayEnd in the main function should differ
+      s_month = '08'  # ranges from 01 to 12 
       e_month  = '09'  # ranges from 01 to 12
       # duration helps track the total month we want to compile
       duration = 1
