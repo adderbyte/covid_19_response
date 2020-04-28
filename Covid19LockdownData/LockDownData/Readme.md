@@ -1,1 +1,1 @@
-Lock down data from wikipedia.
+Lock down data from wikipedia and HDX.
