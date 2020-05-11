@@ -18,6 +18,18 @@ Dataset from :
 ![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/coro2.png)
 
 
+----------------------------------
+
+#### Covid Multiplot Interactive visualization Platform with Lockdown Info
+
+---------------------------------------
+
+
+![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/freq.png)
+
+
+
+
 
 ----------------------------------
 
