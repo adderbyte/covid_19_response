@@ -25,7 +25,7 @@ Dataset from :
 ---------------------------------------
 
 
-![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/freq.png)
+![alt-text](https://github.com/adderbyte/covid_19_response/blob/master/Images/covidFinal.png)
 
 
 
