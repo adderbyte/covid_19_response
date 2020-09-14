@@ -20,7 +20,7 @@ Dataset from :
 
 ----------------------------------
 
-#### Covid Multiplot Interactive visualization Platform with Lockdown Info
+#### Covid Multiplot Interactive visualization Platform with Lockdown Information
 
 ---------------------------------------
 
