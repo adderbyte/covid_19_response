@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this article, please cite it as below."
 authors:
-  - family-names: Lukman
-    given-names: Olagoke
+  - family-names: Lukman, Topcu
+    given-names: Olagoke,Ahmet
 orcid: "https://orcid.org/0000-0001-8582-8226"
 title: "COVID-19 : Control Measures’ Importance Based on Non-negative Matrix Factorization"
 conference: 6th National High Performance Computing Conference,https://www.basarim.org.tr/2020/doku.php
